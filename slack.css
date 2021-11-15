@@ -1,0 +1,58 @@
+body{
+    background: url(hellcat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    color: white;
+    background: black;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    margin-top: 7%;
+    padding-top: 70px;
+    padding-bottom: 70px;
+   margin-left: 500px;
+   
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    top: 50px;
+    position: absolute;
+    left: 660px;
+
+}
+hr{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+input{
+    width: 80%;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    background: transparent;
+    color: white;
+    outline: none;
+}
+.bottom{
+    background: rgb(139, 139, 185);
+}
+textarea{
+    width: 80%;
+    height: 30px; 
+    background: transparent;
+    color: white;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+     
+
+
+
+
+    
+}
